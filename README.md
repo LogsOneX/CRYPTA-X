@@ -49,10 +49,7 @@ Lindungi Komunikasi Sensitif Tim Anda dengan Enkripsi Berlapis Standar Militer &
 3. Ancaman Internal
    - 68% pelanggaran data disebabkan oleh insider threat (Verizon DBIR). Kontrol akses granular meminimalisir risiko
 
-## 📜 Lisensi
-Distributed under MIT License. See LICENSE for more information.
-
-## 📞 Hubungi Kontak Untuk Akses Tools
+## 📞 Hubungi Kontak
 - Tim Pengembangan: ebay.urban269@passinbox.com
 
 ---
