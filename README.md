@@ -23,7 +23,7 @@ Alat enkripsi/dekripsi berlapis dengan sistem kunci dinamis dan manajemen akses 
 | 📜 Audit Trail | Log waktu pendaftaran pengguna |
 | 🚨 Admin Alerts | Notifikasi aktivitas mencurigakan (dalam pengembangan) |
 | 🔒 Multi-Layer Encryption | Proteksi berlapis dengan 4 algoritma berbeda |
-| 💻 CLI & Bot Support | Antarmuka Telegram Bot dan Command Line |
+| 💻 CLI & Bot Support | Antarmuka Bot dan Command Line |
 
 ## 🚨 Protokol Keamanan
 
@@ -35,5 +35,14 @@ Alat enkripsi/dekripsi berlapis dengan sistem kunci dinamis dan manajemen akses 
    - Tidak ada kunci statis yang disimpan
 3. Audit Log
    - Semua aktifitas tercatat di DB
-   - Deteksi percobaan akses ilegal 
+   - Deteksi percobaan akses ilegal
+
+## 📜 Lisensi
+Distributed under MIT License. See LICENSE for more information.
+
+## 📞 Kontak
+- Tim Pengembangan: ebay.urban269@passinbox.com
+
+---
+Disclaimer: Alat ini ditujukan untuk tujuan keamanan. Pengguna bertanggung jawab penuh atas penggunaan alat ini.
 
