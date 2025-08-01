@@ -39,7 +39,7 @@ Alat enkripsi/dekripsi berlapis dengan sistem kunci dinamis dan manajemen akses 
 ## 🔒 CRYPTA-X ENCRYPTION SOLUTION
 Lindungi Komunikasi Sensitif Tim Anda dengan Enkripsi Berlapis Standar Militer & Sistem Manajemen Terpusat!
 
-## MENGAPA PERUSAHAAN ANDA MEMBUTUHKAN TOOLS INI?
+## 🏢 MENGAPA ANDA MEMBUTUHKAN TOOLS INI?
 1. Kebocoran Data = Kerugian
    - 83% Perusahaan/Organisasi mengalami kebocoran data melalui komunikasi internal (IBM Security 2023)
    - Alat ini memastikan semua pesan tim Anda terlindugi dengan enkripsi berlapis
