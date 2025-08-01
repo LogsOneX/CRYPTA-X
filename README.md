@@ -36,7 +36,7 @@ Alat enkripsi/dekripsi berlapis dengan sistem kunci dinamis dan manajemen akses 
    - Semua aktifitas tercatat di DB
    - Deteksi percobaan akses ilegal
 
-## 🔒 CRYPTA-X ECTERPRISE-GRADE ENCRYPTION SOLUTION
+## 🔒 CRYPTA-X ENCRYPTION SOLUTION
 Lindungi Komunikasi Sensitif Tim Anda dengan Enkripsi Berlapis Standar Militer & Sistem Manajemen Terpusat!
 
 ## MENGAPA PERUSAHAAN ANDA MEMBUTUHKAN TOOLS INI?
