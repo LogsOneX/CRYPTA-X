@@ -6,7 +6,7 @@
 
 Alat enkripsi/dekripsi berlapis dengan sistem kunci dinamis dan manajemen akses terpusat. Dirancang untuk operasi keamanan tingkat tinggi dengan fitur:
 
-- Enkripsi 4 lapis 
+- Enkripsi berlapis 
 - Pergantian algoritma otomatis harian
 - Audit log real-time
 
@@ -21,8 +21,8 @@ Alat enkripsi/dekripsi berlapis dengan sistem kunci dinamis dan manajemen akses 
 | 🔄 Dynamic Key Rotation | Pergeseran Code & kunci berubah setiap hari |
 | 👥 Centralized Access Control | Manajemen Pengguna |
 | 📜 Audit Trail | Log waktu pendaftaran pengguna |
-| 🚨 Admin Alerts | Notifikasi aktivitas mencurigakan (dalam pengembangan) |
-| 🔒 Multi-Layer Encryption | Proteksi berlapis dengan 4 algoritma berbeda |
+| 🚨 Admin Alerts | Notifikasi aktivitas mencurigakan |
+| 🔒 Multi-Layer Encryption | Proteksi berlapis dengan berbagai algoritma berbeda |
 | 💻 CLI & Bot Support | Antarmuka Bot dan Command Line |
 
 ## 🚨 Protokol Keamanan
