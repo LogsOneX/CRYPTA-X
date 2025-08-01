@@ -6,12 +6,12 @@
 
 Alat enkripsi/dekripsi berlapis dengan sistem kunci dinamis dan manajemen akses terpusat. Dirancang untuk operasi keamanan tingkat tinggi dengan fitur:
 
-- Enkripsi 4 lapis (Caesar, Atbash, Playfair, Base64)
+- Enkripsi 4 lapis 
 - Pergantian algoritma otomatis harian
 - Audit log real-time
 
 > Warning  
-> Alat ini hanya untuk tujuan keamanan dan edukasi.  
+> Alat ini hanya untuk tujuan keamanan.  
 > Penyalahgunaan untuk aktivitas ilegal akan ditindak sesuai hukum!
 
 ## 🛡️ Fitur Keamanan
@@ -24,4 +24,16 @@ Alat enkripsi/dekripsi berlapis dengan sistem kunci dinamis dan manajemen akses 
 | 🚨 Admin Alerts | Notifikasi aktivitas mencurigakan (dalam pengembangan) |
 | 🔒 Multi-Layer Encryption | Proteksi berlapis dengan 4 algoritma berbeda |
 | 💻 CLI & Bot Support | Antarmuka Telegram Bot dan Command Line |
+
+## 🚨 Protokol Keamanan
+
+1. Verifikasi 2 Langkah
+   - Hanya pengguna terdaftar yang dapat mengakses bot
+   - Admin utama memiliki kendali penuh
+2. Enkripsi Dinamis
+   - Parameter enkripsi berubah setiap hari pukul 00:00 UTC
+   - Tidak ada kunci statis yang disimpan
+3. Audit Log
+   - Semua aktifitas tercatat di DB
+   - Deteksi percobaan akses ilegal 
 
