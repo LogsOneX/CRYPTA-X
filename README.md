@@ -26,36 +26,3 @@ Alat enkripsi/dekripsi berlapis dengan sistem kunci dinamis dan manajemen akses 
 | 🔒 Multi-Layer Encryption | Proteksi berlapis dengan 4 algoritma berbeda |
 | 💻 CLI & Bot Support | Antarmuka Telegram Bot dan Command Line |
 
-## 🚀 Instalasi
-
-### Prasyarat
-- Python 3.7+
-- Akun Google Cloud (untuk Google Sheets API)
-- Token Bot Telegram ([@BotFather](https://t.me/BotFather))
-- Akses server (direkomendasikan)
-
-### Langkah Instalasi
-
-`bash
-# 1. Clone repositori
-git clone https://github.com/yourusername/CRYPTA-X.git
-cd CRYPTA-X
-
-# 2. Setup environment
-python3 -m venv venv
-source venv/bin/activate
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Konfigurasi credentials
-cp config.example.py config.py
-nano config.py  # Edit dengan detail akun Anda
-
-# 5. Download Google Service Account credentials
-#    Simpan sebagai 'credentials.json' di direktori utama
-
-# 6. Jalankan bot
-python bot.py
-
-### 
