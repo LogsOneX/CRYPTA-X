@@ -40,7 +40,7 @@ Alat enkripsi/dekripsi berlapis dengan sistem kunci dinamis dan manajemen akses 
 ## 📜 Lisensi
 Distributed under MIT License. See LICENSE for more information.
 
-## 📞 Kontak
+## 📞 Hungi Kontak Untuk Membeli Tools
 - Tim Pengembangan: ebay.urban269@passinbox.com
 
 ---
