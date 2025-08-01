@@ -52,7 +52,7 @@ Lindungi Komunikasi Sensitif Tim Anda dengan Enkripsi Berlapis Standar Militer &
 ## 📜 Lisensi
 Distributed under MIT License. See LICENSE for more information.
 
-## 📞 Hungi Kontak Untuk Akses Tools
+## 📞 Hubungi Kontak Untuk Akses Tools
 - Tim Pengembangan: ebay.urban269@passinbox.com
 
 ---
