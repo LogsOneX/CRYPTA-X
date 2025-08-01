@@ -18,7 +18,7 @@ Alat enkripsi/dekripsi berlapis dengan sistem kunci dinamis dan manajemen akses 
 
 | Fitur | Deskripsi |
 |-------|-----------|
-| 🔄 Dynamic Key Rotation | Pergeseran Caesar & kunci Playfair berubah setiap hari |
+| 🔄 Dynamic Key Rotation | Pergeseran Code & kunci berubah setiap hari |
 | 👥 Centralized Access Control | Manajemen Pengguna |
 | 📜 Audit Trail | Log waktu pendaftaran pengguna |
 | 🚨 Admin Alerts | Notifikasi aktivitas mencurigakan (dalam pengembangan) |
