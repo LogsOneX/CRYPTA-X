@@ -8,7 +8,6 @@ Alat enkripsi/dekripsi berlapis dengan sistem kunci dinamis dan manajemen akses 
 
 - Enkripsi 4 lapis (Caesar, Atbash, Playfair, Base64)
 - Pergantian algoritma otomatis harian
-- Manajemen pengguna berbasis Google Sheets
 - Audit log real-time
 
 > Warning  
@@ -20,7 +19,7 @@ Alat enkripsi/dekripsi berlapis dengan sistem kunci dinamis dan manajemen akses 
 | Fitur | Deskripsi |
 |-------|-----------|
 | 🔄 Dynamic Key Rotation | Pergeseran Caesar & kunci Playfair berubah setiap hari |
-| 👥 Centralized Access Control | Manajemen pengguna via Google Sheets |
+| 👥 Centralized Access Control | Manajemen Pengguna |
 | 📜 Audit Trail | Log waktu pendaftaran pengguna |
 | 🚨 Admin Alerts | Notifikasi aktivitas mencurigakan (dalam pengembangan) |
 | 🔒 Multi-Layer Encryption | Proteksi berlapis dengan 4 algoritma berbeda |
