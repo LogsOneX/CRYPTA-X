@@ -49,7 +49,7 @@ Lindungi Komunikasi Sensitif Tim Anda dengan Enkripsi Berlapis Standar Militer &
    - 68% pelanggaran data disebabkan oleh insider threat (Verizon DBIR). Kontrol akses granular meminimalisir risiko
 
 ## 📞 Hubungi Kontak
-- Tim Pengembangan: ebay.urban269@passinbox.com
+- Tim Pengembangan: sierra@801opsec.site
 
 ---
 Disclaimer: Alat ini ditujukan untuk tujuan keamanan. Pengguna bertanggung jawab penuh atas penggunaan alat ini.
