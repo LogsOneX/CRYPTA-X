@@ -1,8 +1,5 @@
 # 🔐 CRYPTA-X - Secure Multi-Layer Encryption
 
-[![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
-[![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://core.telegram.org/bots)
-
 Alat enkripsi/dekripsi berlapis dengan sistem kunci dinamis dan manajemen akses terpusat. Dirancang untuk operasi keamanan tingkat tinggi dengan fitur:
 
 - Enkripsi berlapis 
